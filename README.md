@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reshma</h1>
 ### 🌟 About Me  
 
-A **tech enthusiast** and **B.Tech AI & ML student**, always excited to learn and grow. I believe in creating solutions that make a difference, whether through innovative projects or meaningful collaborations.
+A **tech enthusiast** and **B.Tech AI & DS student**, always excited to learn and grow. I believe in creating solutions that make a difference, whether through innovative projects or meaningful collaborations.
 
 - 💻 **Fields of Interest**: Artificial Intelligence, Robotics, Web Development, and Automation.  
 - 🔨 **Currently Working On**: Cool projects in **AI** and **open-source development**.  
